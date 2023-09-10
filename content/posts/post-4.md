@@ -1,7 +1,7 @@
 ---
 title: " How to Install ChatGPT on Your PC"
 description: "meta description"
-image: "/images/posts/10.webp"
+image: "images/posts/10.webp"
 date: 2021-02-02
 draft: false
 authors: ["Mark Dinn"]
