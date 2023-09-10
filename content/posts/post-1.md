@@ -2,7 +2,7 @@
 title: "WHY PC SLOWS DOWN OVER TIME ?"
 description: "meta description"
 date: 2023-04-04
-image: "/images/posts/POST1.webp"
+image: "images/posts/POST1.webp"
 categories: ["art"]
 authors: ["Mark Dinn"]
 tags: ["PC", "HARDWARE","SLOW", ]
