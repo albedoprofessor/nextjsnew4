@@ -2,7 +2,7 @@
 title: "UPGRADE THIS SMALL HARDWARE IN PC AND GET 4000% EXTRA BOOST"
 description: "meta description"
 date: 2022-08-12
-image: "/images/posts/13.webp"
+image: "images/posts/13.webp"
 categories: ["art"]
 authors: ["Mark Dinn"]
 tags: ["diy", "toy"]
