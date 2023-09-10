@@ -1,7 +1,7 @@
 ---
 title: "SINGLE CLICK HACK TO MAKE YOUR PC 200% EXTRA FRAME RATE "
 description: "meta description"
-image: "/images/posts/12.jpg"
+image: "images/posts/12.jpg"
 date: 2021-02-03
 draft: false
 authors: ["ADMIN"]
