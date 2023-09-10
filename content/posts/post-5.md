@@ -1,7 +1,7 @@
 ---
 title: "SAVE YOUR JOB DEVELOPER - DO THIS NOW !!"
 description: "meta description"
-image: "/images/posts/11.webp"
+image: "images/posts/11.webp"
 date: 2021-01-25
 draft: false
 authors: ["ALBEEDO"]
