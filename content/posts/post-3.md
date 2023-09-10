@@ -2,7 +2,7 @@
 title: Why Wordpress Forced To Added Dark Mode
 description: "meta description"
 date: 2022-06-02
-image: "/images/posts/09.jpg"
+image: "images/posts/09.jpg"
 categories: ["art"]
 authors: ["Admin"]
 tags: ["pc", "game"]
