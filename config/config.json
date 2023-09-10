@@ -2,8 +2,8 @@
   "site": {
     "title": "Albeedo's | PC GUIDE",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo1.png",
+    "favicon": "images/favicon.png",
+    "logo": "images/logo1.png",
     "logo_width": "290",
     "logo_height": "90",
     "logo_text": "PC BOY"
