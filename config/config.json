@@ -1,0 +1,29 @@
+{
+  "site": {
+    "title": "Albeedo's | PC GUIDE",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo1.png",
+    "logo_width": "290",
+    "logo_height": "90",
+    "logo_text": "PC BOY"
+  },
+
+  "settings": {
+    "pagination": 3,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "copyright": "Albedo PC Guy | Copirighted Content"
+  },
+
+  "metadata": {
+    "meta_author": "Albedo",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Albedo author"
+  }
+}
