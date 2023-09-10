@@ -2,7 +2,7 @@
 title: WHY OUR WEBSITE IS BEST TO HELP PEOPLE ABOUT PC HARDWARE
 description: "meta description"
 date: 2022-04-10
-image: "images/posts/08.jpg"
+image: "images/posts/09.jpg"
 categories: ["development"]
 authors: ["ADMIN"]
 tags: ["PC", "SLOW"]
