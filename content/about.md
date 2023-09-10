@@ -1,7 +1,7 @@
 ---
 title: "We Are Social Media Company In Europe Region "
 meta_title: "About"
-image: "/images/author.jpg"
+image: "images/author.jpg"
 layout: "about"
 draft: false
 
