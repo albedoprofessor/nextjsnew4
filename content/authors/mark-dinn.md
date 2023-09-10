@@ -1,6 +1,6 @@
 ---
 title: ADMIN
-image: /images/authors/mark-dinn.jpg
+image: images/authors/mark-dinn.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/
