@@ -4,7 +4,7 @@
 
 const nextConfig = {
   reactStrictMode: true,
-  basePath: '/personal-portfolio',
+  basePath: '/nextjsnew4',
 };
 
 module.exports = nextConfig;
